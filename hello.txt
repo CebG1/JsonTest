@@ -18,5 +18,15 @@
     "bundle": "miteks",
     "sceneName": "cc-release-slot/cc30-casino-royal-9950/g9950L",
     "gameID": "410"
-  }
+  },
+  {
+    "bundle": "miteks",
+    "sceneName": "cc-release-slot/cc30-casino-royal-9950/g9950L",
+    "gameID": "410"
+  },,
+  {
+    "bundle": "miteks",
+    "sceneName": "cc-release-slot/cc30-casino-royal-9950/g9950L",
+    "gameID": "410"
+  },
 ]
