@@ -1,0 +1,10 @@
+{
+  "host_domain": "",
+  "api_domain": "",
+  "rs_domain": "",
+  "lp_domain": "",
+  "agency_ws_main_url": "",
+  "sport_domain": "",
+  "appName": "mitek",
+  "brand": "mitek"
+}
