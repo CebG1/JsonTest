@@ -2,6 +2,7 @@
   "host_domain": "",
   "api_domain": "",
   "rs_domain": "",
+  "external_rs_domain": "",
   "lp_domain": "",
   "agency_ws_main_url": "",
   "sport_domain": "",
